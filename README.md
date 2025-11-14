@@ -112,6 +112,17 @@ These can be reused for inference, evaluation, or further training.
 - Clear notebook outputs before committing (optional but cleaner)  
 - Use virtual environments for consistent results  
 
+##    Screenshots of the final website
+- Login Page
+<img width="1919" height="998" alt="Screenshot 2025-11-14 131315" src="https://github.com/user-attachments/assets/7cf18ee5-2f20-48bb-a6fa-16bbb03b9ba5" />
+
+- Prediction and Analysis
+<img width="1919" height="811" alt="Screenshot 2025-11-14 131339" src="https://github.com/user-attachments/assets/6247d116-933f-478b-a930-00f28ea240d9" />
+
+ 
+<img width="1919" height="1067" alt="Screenshot 2025-11-14 131405" src="https://github.com/user-attachments/assets/fb205dbd-c072-41dc-a264-69aa286d856a" />
+
+
 ## 🔮 Future Improvements
 
 - Add complete `requirements.txt` with all package versions  
@@ -133,3 +144,4 @@ You are free to use, modify, and distribute it.
 ## ⭐ Support
 
 If you find this project useful, please consider ⭐ **starring the repository**!
+

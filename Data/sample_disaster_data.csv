@@ -1,0 +1,5 @@
+Location,Disaster_Type,Severity,Hour
+Zone A,Flood,High,0
+Zone B,Flood,Medium,1
+Zone C,Earthquake,Low,3
+Zone D,Landslide,High,5

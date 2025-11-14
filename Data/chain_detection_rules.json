@@ -1,0 +1,15 @@
+{
+  "Earthquake": {
+    "next": "Landslide",
+    "max_delay_hrs": 48
+  },
+  "Landslide": {
+    "next": "Dam_Breach",
+    "max_delay_hrs": 24
+  },
+  "Heavy_Rain": {
+    "next": "Urban_Flood",
+    "max_delay_hrs": 36
+  }
+}
+
